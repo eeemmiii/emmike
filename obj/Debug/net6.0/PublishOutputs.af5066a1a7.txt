@@ -1,0 +1,7 @@
+C:\Users\emmia\Azure\emmike\emmike\bin\Debug\net6.0\publish\emmike.exe
+C:\Users\emmia\Azure\emmike\emmike\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\emmia\Azure\emmike\emmike\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\emmia\Azure\emmike\emmike\bin\Debug\net6.0\publish\emmike.dll
+C:\Users\emmia\Azure\emmike\emmike\bin\Debug\net6.0\publish\emmike.deps.json
+C:\Users\emmia\Azure\emmike\emmike\bin\Debug\net6.0\publish\emmike.runtimeconfig.json
+C:\Users\emmia\Azure\emmike\emmike\bin\Debug\net6.0\publish\emmike.pdb
